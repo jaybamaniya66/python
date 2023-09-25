@@ -2,7 +2,7 @@ import requests
 import json
 
 def main():
-  print("hello jay bamaniya")
+  print("hey kushal")
 
 
 if __name__ == "__main__":
